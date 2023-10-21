@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring_with_neo4j_tutorial">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/spring_with_neo4j_tutorial.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
